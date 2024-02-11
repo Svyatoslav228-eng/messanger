@@ -1,0 +1,122 @@
+[
+  {
+    "login": "1234",
+    "password": "1234",
+    "username": "Agent228",
+    "tag": "1234",
+    "status": "2024-01-15T00:28:23.241Z",
+    "avatar": "avatars/default-avatars/default-avatar-13.jpg"
+  },
+  {
+    "login": "qwer",
+    "password": "qwer",
+    "username": "rewq",
+    "tag": "qwer",
+    "status": "online",
+    "avatar": "avatars/default-avatars/default-avatar-24.jpg"
+  },
+  {
+    "login": "1111",
+    "password": "1111",
+    "username": "Dead In The bathtub",
+    "tag": "imok",
+    "status": "2024-01-15T00:32:26.191Z",
+    "avatar": "avatars/user-avatars/1111.jpg"
+  },
+  {
+    "login": "2222",
+    "password": "2222",
+    "username": "Жаба",
+    "tag": "2222",
+    "status": "2024-01-13T00:28:47.040Z",
+    "avatar": "avatars/user-avatars/2.jpg"
+  },
+  {
+    "login": "4444",
+    "password": "4444",
+    "username": "44",
+    "tag": "4444",
+    "status": "2024-01-06T21:40:19.360Z",
+    "avatar": "avatars/default-avatars/default-avatar-11.jpg"
+  },
+  {
+    "login": "3333",
+    "password": "3333",
+    "username": "33",
+    "tag": "3333",
+    "status": "2024-01-06T21:40:19.360Z",
+    "avatar": "avatars/default-avatars/default-avatar-8.jpg"
+  },
+  {
+    "login": "5555",
+    "password": "5555",
+    "username": "55",
+    "tag": "5555",
+    "status": "2024-01-07T00:19:59.180Z",
+    "avatar": "avatars/default-avatars/default-avatar-11.jpg"
+  },
+  {
+    "login": "6666",
+    "password": "6666",
+    "username": "Cyber Nike",
+    "tag": "cyberdolbob",
+    "status": "2024-01-14T22:04:47.391Z",
+    "avatar": "avatars/user-avatars/6666.jpg"
+  },
+  {
+    "login": "7777",
+    "password": "7777",
+    "username": "Аноним",
+    "tag": "AnonimGuy",
+    "status": "2024-01-10T14:03:14.896Z",
+    "avatar": "avatars/user-avatars/7.jpg"
+  },
+  {
+    "login": "8888",
+    "password": "8888",
+    "username": "88",
+    "tag": "8888",
+    "status": "2023-12-31T12:15:19.360Z",
+    "avatar": "avatars/default-avatars/default-avatar-1.jpg"
+  },
+  {
+    "login": "admin",
+    "password": "admin",
+    "username": "admin",
+    "tag": "admin",
+    "status": "2024-01-15T00:18:05.630Z",
+    "avatar": "avatars/default-avatars/default-avatar-21.jpg"
+  },
+  {
+    "login": "qwert",
+    "password": "qwert",
+    "username": "Всякая всячина",
+    "tag": "qwert",
+    "status": "2024-01-06T21:40:19.360Z",
+    "avatar": "avatars/user-avatars/qwert.jpg"
+  },
+  {
+    "login": "pizza",
+    "password": "pepperoni",
+    "username": "Pizza",
+    "tag": "pizza",
+    "avatar": "avatars/user-avatars/pizza.jpg",
+    "status": "2024-01-08T13:48:08.109Z"
+  },
+  {
+    "login": "lipormonation",
+    "password": "aergerastion",
+    "username": "Lipormonation",
+    "tag": "lipormonation",
+    "avatar": "avatars/user-avatars/lipormonation.jpg",
+    "status": "2024-01-14T22:03:18.495Z"
+  },
+  {
+    "login": "vovaminecraft228",
+    "password": "sosiska",
+    "username": "Вова Майнкрафтер 2013",
+    "tag": "vovaminecraft228",
+    "avatar": "avatars/user-avatars/vovaminecraft228.jpg",
+    "status": "online"
+  }
+]
